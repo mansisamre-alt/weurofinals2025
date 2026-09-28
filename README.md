@@ -45,6 +45,15 @@ The project looks at:
 
 The dashboard presents the analysis through visualisations including shot maps, passing networks and team comparisons.
 
+## Dashboard Preview
+
+### Passing Networks
+![Passing Networks](passing network.png)
+
+### comparison table
+![Comparison table](table.png)
+
+
 ## Data
 
 Match event data was obtained using the `statsbombpy` Python package and StatsBomb's open data.
