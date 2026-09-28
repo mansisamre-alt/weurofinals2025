@@ -1,5 +1,9 @@
 # UEFA Women's EURO 2025 Final — Football Match Analytics
 
+## Live Dashboard
+
+[View the live Streamlit dashboard](https://weurofinals2025.streamlit.app/)
+
 ## Project Overview
 
 This project analyses the UEFA Women's EURO 2025 Final between **England Women's** and **Spain Women's** using event data from StatsBomb.
