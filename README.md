@@ -48,7 +48,7 @@ The dashboard presents the analysis through visualisations including shot maps, 
 ## Dashboard Preview
 
 ### Passing Networks
-![Passing Networks](passing network.png)
+![Passing Networks](passing_network.png)
 
 ### comparison table
 ![Comparison table](table.png)
